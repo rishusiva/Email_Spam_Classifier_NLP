@@ -15,7 +15,7 @@ A Naive Bayes Model created to classify Emails as Spam and Ham.
 
 ## Prerequisites
 * Python 3 
-* an IDE (preferably Jupyter Notebook)
+* an IDE 
 * Pandas 
 * Numpy 
 * Sklearn 
