@@ -5,15 +5,21 @@
 ## Overview
 A Naive Bayes Model created to classify Emails as Spam and Ham.
 
-## Naive Bayes Model used
+## NLP Techniques Used
+* Removal of stopwords
+* Stemming 
+* Bag of Words
+
+## Naive Bayes Model Used
 * MultinomialNB
 
 ## Prerequisites
 * Python 3 
-* an IDE (preferably Jupyter Notebook)
+* an IDE 
 * Pandas 
 * Numpy 
 * Sklearn 
+* NLTK
 
 All the external dependencies can be installed by using ```pip install -r requirements.txt```
 
